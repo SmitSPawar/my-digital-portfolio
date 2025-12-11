@@ -1,0 +1,245 @@
+
+Smitaj Suresh Pawar
+					                                        	
+Career Summary
+        Contact No.: +91 9028570301
+  Email: smbatu@gmail.com
+
+Around 10+ years of overall IT experience.
+Working as AI Engineer and Azure Solution Architect.
+Over 10+ Years of experience in Microsoft azure BI and data Solution development and Data Analytics.
+Expert knowledge Microsoft Azure Fabric onelake/warehouse, Azure AI Foundry, Azure ML Studio, Data Factory (ADF), Mapping Data Flow, Azure Blob Storage, Azure Data Bricks, Azure Data Lake, Azure Synapse Analytics, Azure SQL Server, Azure DWH, Logic App, Azure function, Data purview, azure HDInsight, key vault, Azure Devops CI-CD, Azure SQL Server, Azure synapse DWH, Azure Analysis Service, T-SQL, Dimensional Modelling, MSBI Tools - SSIS/SSRS/SSAS, PDW (Parallel Data Warehousing), Hive, Terraform etc.
+Experience in Microsoft Fabric Lakehouse, Datawarehouse, data pipelines, Semantic modelling.
+Experience to build AI solution using various technologies like Azure AI Foundry, Google Gemini AI studio/Antigravity, large language model (LLM models), Agentic AI, Lang chain, GitHub Copilot Studio, Cursor etc.
+Experience in Microsoft Power BI reporting tool.
+Experience in Google cloud including Google Big Query, Google storage, Pub-Sub, Google function for 1 year.
+Worked in Alteryx data blending tool for around 6 months.
+Experience in Agile/SCRUM model & SDLC – Requirement Gathering & Analysis, Design, Coding, Code reviews, Configuration control, Efforts Estimations, Providing Technical Solutions and Performance Tuning.   
+Worked on various Project and POC’s on different technologies like large language model (LLM models), RAG, finetuning, evaluation, Reinforcement learning (RL), AI Agent, Transfer learning, ELK (Elasticsearch and Kibana), Denodo, Talend and designed POC in Machine learning, Deep Learning, Data Mining, NLP,FastAPI,Open CV using python and R language.
+Worked 1 year at onsite UK location as Azure data developer for Coca Cola client.
+Customer Engagement experience while handling various projects with a good track record of ensuring repeat and increase in business.
+Microsoft certified Azure Solutions Architect Expert.
+Certified Deep Learning Engineer with Tensorflow and Keras.
+
+Professional Experience
+
+
+Currently working as AI Engineer/Azure Solution Architect/Data engineer in Nouryon, Navi Mumbai from Sep 2023 to till date.
+Worked as an Azure data engineer/Google data engineer in Atos from May 2021 to Sep 2023. 
+Worked as an Azure data engineer in LTI from Mar 2021 to May 2022. 
+Worked as an Azure data engineer in CitiusTech from Jan 2020 to Mar 2021. 
+Worked as an Azure data engineer/BI Developer in Mastek from June 2014 to Jan 2020. 
+
+Professional Achievement
+
+Performer of the Year Award for 2025 in Nouryon. 
+Microsoft Certified: Azure Solutions Architect Expert (AZ-305).
+Microsoft Certified: Azure Data Engineer Associate (DP-203).
+Microsoft Certified: Azure Administrator Associate (AZ-104).
+Microsoft Certified: Azure DevOps Engineer Expert (AZ-400).
+Microsoft Certified: Azure Enterprise Data Analyst Associate (DP-500).
+Microsoft Certified: Azure AI Fundamentals (AI-900).
+SimpliLearn Certified: Deep Learning with Pytorch, Tensorflow and Keras.
+Performer of the Quarter Award for Oct – Dec’15 in Mastek. Agile L1 certified
+
+
+   Technical Skills
+
+AI : Azure AI Foundry , Google AI/Antigravity , Generative AI , Cognitive service ,LLM models, Agentic AI.
+Databases: Microsoft Fabric Onelake/Warehouse,SQL Server 2012/2016/2019, Azure SQL Server, Azure Synapse DWH, Google Big Query.
+ETL Tools: Fabric Pipelines, Dataflow, Azure Data Factory, SQL Server Integration Services (SSIS) Talend, Alteryx
+Reporting Tools: Microsoft SQL Server Reporting Services (SSRS), Power BI 
+OLAP Tools: Microsoft Azure Analysis Services (SSAS), Tabular Cube
+Programming & Scripting Technologies: T-SQL, U-SQL, python,FastAPI, R, Hive Query, Pyspark.
+Cloud Platform: MS Azure Data Factory, Data Flow, Blob Storage, Data Lake, Synapse analytics, Azure SQL Server, Azure DWH, Logic App, Azure Functions, Azure HDInsight, Azure Key vault, Azure Databricks, Azure purview, Analysis service, Azure DevOps etc. Google cloud including GCP Storage, Pub-Sub, GCP Function, GCP Big Query etc.
+Other Tools: SAP ECC,SAP BW Hana,SNP Glue, Denodo data virtualization and Microsoft Visio as data model tool, Tensorflow, Pytorch,Keras.
+
+
+
+
+ Work Experience
+
+AI Engineer/Azure Solution Architect                                                                                                           Sep-2023 to till date
+Project Name: In-house Nouryon Data Analytics Platform
+Nouryon (In-house project)
+
+Project Description: Nouryon Data Analytics Platform is a metadata-driven platform designed to build end-to-end data solutions, from raw data sources to an enriched data warehouse, making data easily accessible for self-service BI users and sales teams to create Power BI reports. The entire platform is built using Azure services such as Azure Data Factory, Azure SQL Database, and Power BI. Currently, more than 12 data sources are integrated into the platform including SAP, ServiceNow, API etc. In parallel, the platform is being migrated to Microsoft Fabric workspace to leverage the benefits of Direct Lake for real-time refresh. Also created Fabric AI agents on top of enriched data to business users to interact with data using natural language (NLP).
+Responsibility:
+Designed High level solution design as per standard practice.
+Designed Fabric pipelines, spark notebooks to ingest and transform data using standard stored procedures.
+Designed Fabric AI agents to build NLP chatbot for business users.
+Designed AI knowledge base for unstructured and structured data using azure AI vector search.
+Deployment using Azure DevOps pipeline with CI-CD approach. 
+
+Technologies: Microsoft Fabric onelake, warehouse ,Azure cloud with Azure function, Azure Data factory, azure data lake,SAP,Power BI.
+
+
+AI Engineer/Azure Data Engineer/GCP Data Engineer                                                                                        May-2022 to Sep-2023
+Project Name: Enterprise Feedback Loop (EFL)
+Atos-Syntel – Client Name: Humana, US
+
+Project Description: Humana is health insurance solution provider in US. We are designing data platform solutions to accept customer feedback data in the form of call recording, Chats, survey, agents from various sources building customer insight from them. Few applications are designed on GCP cloud and some of them migrated to Microsoft azure. Data processed by EFL is helping client to understand customer feedback and continues improvement in policy.
+ 
+Responsibility:
+Understand business requirements from client and analyze the data and key metrics.
+Designed High-level and low-level design for the solution.
+Designed GCP function and pub-sub message, GCP storage Bucket to process data.
+Create GCP Big query tables, Stored procedure, views to process the data.
+Create Azure function to process the daily file and stored in azure data lake.
+Data modeling, transformation and loading using Azure synapse analytics with dedicated SQL pool.
+Designed ADF pipelines and Azure databricks notebooks to process ad hoc monthly-quarterly data.
+Deployment using Azure DevOps pipeline with CI-CD approach. 
+
+Technologies: Microsoft Azure cloud with Azure function, Azure Data factory, azure data lake, Azure databricks, Azure Synapse Analytics, Azure Devops and Google Cloud technologies with GCP Function, pub-Sub,GCP bucket , GCP Big Query .
+
+
+
+
+Azure Data Engineer                                                                                                                                      Mar-2021 to May-2022
+Project Name: JCI Data Analytics (JCI)
+LTI – Client Name: JCI, US
+
+Project Description: Johnson controls International (JCI) is American company which produces fire, HVAC, and security equipment for buildings. In the project, we are migrating on prem DWH and reporting solution to azure cloud platform using different azure services like data factory, azure hive, power bi, data lake etc. Building end to end data platform solution which helping to the client for business decisions and Data insights from various sources.
+
+Responsibility:
+Understand business requirement from client and analyze the data and key metrics.
+Data ingestion from multiple sources like sap, SQL server, csv, txt etc.
+Transforming data using azure hive with help of ADF and converting existing Talend jobs into ADF pl Involved in ADF pipelines development for multiple sources.
+Building DWH in azure hive database storage 
+Designed tabular model in azure analysis model (AAS).
+Power BI reports development & refresh.
+
+Technologies: Microsoft Azure SQL Server, Azure data factory, azure HDInsight hive, Blob, Azure Analysis service, Data Lake, Azure synapse, Talend, Power BI.
+
+
+Azure Data Engineer                                                                                                                                 Jan-2020 to Feb-2021
+Project Name: Evicore Data Analytics 
+CitiusTech – Client Name: Evicore Healthcare, US
+
+Project Description: Evicore is a company committed to advancing healthcare management through intelligent care and enabling better outcomes for patients, providers, and health plans. Their evidence-based approach that leverages our exceptional capabilities, powerful analytics. This is cloud-based analytics project for BI data transformation & report building.
+
+Responsibility:
+Cloud development using SSIS, Azure data factory, Blob Storage, Data Bricks, Azure Data Lake Store, Azure DWH, Polybase etc.
+Designed Data factory pipelines for multisource data movement.
+Data Transformation using Data bricks & Data Lake.
+Involved in ADF pipelines development for multiple sources.
+Developed Talend jobs for data transformation.
+Designed tabular model in azure analysis model (AAS).
+Power BI reports development & refresh.
+
+Technologies: Microsoft SSIS, Azure SQL Server, Azure data factory, Azure Data Lake, Azure Analysis service, Azure Synapse, Power BI.
+
+
+
+Azure Data Engineer                                                                                                                                 Oct-2018 to Jan-2020
+Project Name: Coca-Cola Modern Business Data Analytics 
+Mastek Ltd – Client Name: Coca-Cola, UK
+
+Project Description: Coca cola business analytics is related to CCEP internal & Nielsen data integration and analysis of profit, price & cash tool which help CCEP to identify retailer profit, loss, sales & price merging & risk scenario etc. 
+
+Responsibility:
+Worked as data engineer on client location (London UK) in initial phase for 1 year.
+Cloud development using Azure data factory, Blob Storage, Data Bricks, Azure Data Lake Store etc.
+Data Transformation using Data bricks & Azure data factory & Datalake U-SQL.
+Involved in ADF pipelines development for multiple sources.
+Alteryx flow development to extract data from SAP BW, databricks and other source systems.
+Involved in Alteryx workflow design & publish activity on server.
+Involved to build automation framework for data validation in Alteryx.
+Designed tabular model in azure analysis model (AAS).
+Refresh & support Power BI reports.
+
+
+Technologies: Microsoft Azure SQL Server, Azure Databricks, SQL DWH, Azure Data Lake, Alteryx, Power BI, Azure Analysis service.
+
+
+
+Azure Data Engineer                                                                                                                                 July-2017 to Sep-2018
+Project Name: GIRFT- NHS Improvement 
+Mastek Ltd – Client Name: NHS, UK
+
+Project Description: Initiation of GIRFT project was to understand the current landscape within SIP and the capabilities required in the form of data and tooling to create a single source for a specialty that could be used across the Program in order to perform proactive analysis and reporting.
+
+Responsibility:
+Involved to identify GIRFT requirement & development strategy
+Involved in design, development, testing and code review 
+Cloud development & data transformation using Azure data factory, Blob Storage
+Developed SSIS packages for data transformation. 
+Implemented framework using SQL Procedures to load the data into Datamart which have complex calculations.
+Preparation of deployment guide, batch file and review.
+
+Technologies: Microsoft SQL server, Azure data factory, Azure Blob, SSIS Lift & shift, Microsoft APS (parallel data warehouse), SSIS, Alteryx, Tableau.
+
+
+
+
+Azure Data Engineer/BI Developer                                                                                                                    Dec-2016 to July-2017
+Project Name: Model Hospital- NHS Improvement 
+Mastek Ltd – Client Name: NHS, UK
+
+Project Description: The HES Browser Project is to deliver a data analysis tool for the Cooperation and Competition Directorate (CCD) Economists. This tool is expected to replace the Dr Foster proprietary application that is currently being used by CCD.
+
+Responsibility:
+Worked on Analytical Platform systems (APS) with MSBI stack and Alteryx i.e., Massively Parallel Processing (MPP) architecture that allows far better performance 
+Responsibility of developing the end-to-end database solution which would be consumed by Front end reporting tool.
+Worked on BIML script through MIST framework which provides generic and automated solution for the SSIS packages.
+Worked on Alteryx for data transformation
+Implemented framework using SQL Procedures to load the data into Datamart which have complex calculations.
+Preparation of deployment guide, batch file and review.
+
+Technologies: Microsoft SQL server, Azure data factory, Azure Blob, SSIS Lift & shift, Microsoft APS (parallel data warehouse), SSIS, Alteryx, Tableau.
+
+
+
+Senior BI Developer                                                                                                                                               Aug-2016 to Dec-2016
+Project Name: IIS Logs Data Analytics
+Mastek Ltd – Client Name: Mastek internal
+
+Project Description: It was internal Mastek project to analyze internet bandwidth in real time. The ELK platform is a complete log analytics solution, built on a combination of three open-source tools—Elasticsearch, Logstash, and Kibana. Elasticsearch is a distributed open-source search engine based on Apache Lucene. Logstash is a data pipeline that helps collect, parse, and analyze a large variety of structured and unstructured data and events generated across various systems. Kibana is an open-source Apache 2.0 licensed data visualization platform that helps in visualizing any kind of structured and unstructured data stored in Elasticsearch indexes. 
+
+Responsibility:
+Configure the Elasticsearch, Kibana, Logstash.
+Create dimension model for IIS system.
+Creating SSIS package to load all Staging, Dimension and facts tables.
+Creating SSAS cubes and import into Power BI reporting tool.
+Creating dashboard on Kibana visualization tool which is near real time  
+Creating NodeJS scripts to inserting data from Elasticsearch to SQL Server.
+Creating dashboard in Power BI.
+
+Technologies: ELK stack, NodeJS, SQL Server 2012, SSAS, Power BI
+
+
+
+Senior BI Developer                                                                                                                                               Jun-2014 to Aug-2016
+Project Name: Capita Data Migration
+Mastek Ltd – Client Name: CAPITA, UK
+
+Project Description: Capita is UK's leading provider of business process outsourcing and integrated professional support service solutions. As part of education services offering, capita has an application called CAPITA-ONE, which is a database used within Local Education Authorities (LEA) for general analysis and overview of pupil and school data. LEAs store school data in their local data bases, files etc. this data from different sources has to be migrated to CAPITA-ONE system for analysis.
+                MDM (Migration Data Model) is an intermediate storage area used for data processing during the     transformation of data from LEA Source to CAPITA-ONE. It is transient in nature, with its contents being destructive loaded while running a data migration ETL process. Primary motivation of MDM is to simplify complexities of transformation processes, ensure data integrity and support data quality operations while transferring data from Source to ONE application
+Responsibilities: Completed roadmap for the product, along with multiple stakeholder management and vendor dealings. Project execution supervision and delivery management
+
+
+Responsibility:
+Performed the mapping analysis with source and destination.
+Map the existing application fields with Capita ONE.
+Involved in Database design
+Developing Schema, Stored procedures, Functions and SSIS packages using Microsoft SQL Server 2012 and Integration Services to populate data into the database.
+Created different reports using power pivot, power view and SSRS.
+Resolve technical queries of the resources assigned to the module. 
+Timely delivery of ETL packages and reporting during crunch time.
+Involved in ETL Testing & documentation.
+Involved in SSRS reporting.
+
+Technologies: Microsoft SQL Server 2012 and SQL BI tools (SSIS&SSRS)
+
+
+
+Education
+
+
+B. Tech in Computer Engineering with Distinction from Dr. Babasaheb Ambedkar Technological University, Lonere.
+Diploma in Computer Engineer with Distinction from IOPE, Lonere, Raigad District.
+10th with Distinction from VHP Vidyamandir High school, Mahad.
+
+Linked-In Profile : https://www.linkedin.com/in/smitaj-pawar-48a0b077
+GitHub account  : https://github.com/SmitSPawar
+

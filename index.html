@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smitaj Suresh Pawar | AI Architect</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://unpkg.com/feather-icons"></script>
+</head>
+
+<body>
+
+    <nav>
+        <div class="container nav-container">
+            <div class="logo">
+                <span class="logo-box">S</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="hero-section">
+        <div class="container hero-grid">
+            <!-- Left Column: Content -->
+            <div class="hero-content">
+
+                <div class="profile-img-container">
+                    <img src="assets/profile.jpg" alt="Smitaj Suresh Pawar" class="profile-img">
+                </div>
+
+                <h1>Hello, I'm<br><span class="name-gradient">Smitaj Pawar</span></h1>
+                <h2 class="role">AI Engineer & Azure Data Architect</h2>
+
+                <p class="bio" id="hero-bio">
+                    <!-- Injected via JS -->
+                </p>
+
+                <div class="cta-row">
+                    <a href="assets/Smitaj_Pawar_CV.doc" class="btn-white"><i data-feather="download"></i> Download
+                        Resume</a>
+                    <div class="social-icons">
+                        <a href="#" id="github-link" class="social-link"><i data-feather="github"></i></a>
+                        <a href="#" id="linkedin-link" class="social-link"><i data-feather="linkedin"></i></a>
+                        <a href="#" id="email-link" class="social-link"><i data-feather="mail"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column: Stats Grid -->
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">10+</div>
+                    <div class="stat-label">Years Experience</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">15+</div>
+                    <div class="stat-label">Projects Completed</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">40+</div>
+                    <div class="stat-label">POCs Delivered</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">12+</div>
+                    <div class="stat-label">Happy Clients</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">20+</div>
+                    <div class="stat-label">Tools/Services</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">7+</div>
+                    <div class="stat-label">Certifications</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Detailed Sections -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="glass-card">
+                <p id="about-description"></p>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience" class="section">
+        <div class="container">
+            <h2 class="section-title">Experience</h2>
+            <div id="experience-list" class="grid-cols-1">
+                <!-- Injected via JS -->
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <div class="container">
+            <h2 class="section-title">Projects</h2>
+            <div id="projects-grid" class="grid-cols-2">
+                <!-- Injected via JS -->
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2 class="section-title">Contact</h2>
+            <div class="glass-card" style="text-align: center;">
+                <p id="contact-text"></p>
+                <a href="#" id="contact-btn" class="btn-white" style="margin-top: 2rem;">Get in Touch</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Project Modal -->
+    <div id="project-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h2 id="modal-title" class="modal-title">Project Title</h2>
+            <div id="modal-tags" class="modal-tags"></div>
+            <p id="modal-description" class="modal-description">Description goes here...</p>
+            <div class="modal-responsibilities">
+                <h4>Key Responsibilities:</h4>
+                <ul id="modal-responsibilities-list">
+                    <!-- Injected via JS -->
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/content.js"></script>
+    <script src="js/main.js"></script>
+    <script>feather.replace()</script>
+</body>
+
+</html>
